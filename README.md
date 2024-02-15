@@ -1,3 +1,4 @@
+![Demo](./weather_readme.gif)
 # Weather App
 
 This web application allows users to check real-time weather information based on user input for a city. It utilizes the WeatherAPI to gather data and presents it in a user-friendly format. To access the website please visit https://negrea-andrei.github.io/weather/
